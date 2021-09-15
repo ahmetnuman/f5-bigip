@@ -1,7 +1,5 @@
 ---
 layout: post
-title: F5 Container Ingress Service
-tags: F5 Container Ingress Service
 categories: cis
 ---
 

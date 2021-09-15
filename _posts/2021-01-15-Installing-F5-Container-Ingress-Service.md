@@ -1,7 +1,5 @@
 ---
 layout: post
-title: Container Ingress Service
-tags: Container Ingress Service
 categories: cis
 ---
 

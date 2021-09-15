@@ -1,7 +1,5 @@
 ---
 layout: post
-title: Docker Installation
-tags: Docker Installation
 categories: docker
 ---
 

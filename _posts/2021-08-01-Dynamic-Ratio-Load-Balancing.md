@@ -1,7 +1,5 @@
 ---
 layout: post
-title: Dynamic Ratio Load Balancing
-tags: Dynamic Ratio Load Balancing
 categories: f5-ltm
 ---
 

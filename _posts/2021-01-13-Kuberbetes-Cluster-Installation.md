@@ -1,7 +1,5 @@
 ---
 layout: post
-title: Kubernetes Installation
-tags: Kubernetes Installation
 categories: kubernetes
 ---
 
