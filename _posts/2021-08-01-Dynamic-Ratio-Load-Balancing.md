@@ -33,7 +33,7 @@ Here is the lab topology ;
 
 other setting will be remain default or whatever you want.
 
-![Image](/img/dca=monitor.png)
+![Image](/img/dcamonitor.png)
 
 ---
 
