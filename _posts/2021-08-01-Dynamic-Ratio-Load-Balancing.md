@@ -37,11 +37,11 @@ other setting will be remain default or whatever you want.
 
 ---
 
-2. Assign nodes and add monitor them with snmp_dca_agent. **Local Traffic > Nodes > Create**
+2. Assign nodes and add monitor them with snmp_dca_agent **Local Traffic > Nodes > Create**
 
 ![Image](/img/node.png)
 
-all other two nodes added same way.
+all other two nodes added same way
 
 ---
 
