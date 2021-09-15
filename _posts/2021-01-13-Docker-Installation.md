@@ -1,9 +1,9 @@
 ---
 layout: post
+title: Installing Docker
+tags: Installing Docker
 categories: docker
 ---
-
-## Docker Kurulumu 
 
 > Ahmet Numan Aytemiz, 13 Ocak 2021
 

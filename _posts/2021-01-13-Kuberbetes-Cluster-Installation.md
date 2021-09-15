@@ -1,9 +1,9 @@
 ---
 layout: post
+tags: Installing Kubernetes Cluster
+title: Installing Kubernetes Cluster
 categories: kubernetes
 ---
-
-## Lab 2 : Kubernetes Cluster ve UI Kurulumu
 
 ## Lab Setup 
 

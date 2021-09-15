@@ -1,9 +1,9 @@
 ---
 layout: post
+tags: Usage F5 Container Connector
+title: Usage F5 Container Connector
 categories: cis
 ---
-
-## Lab 3.2 F5 Container Connector Kullanımı
 
 > Ahmet Numan Aytemiz, 13 Ocak 2021, Saat:03:07
 
