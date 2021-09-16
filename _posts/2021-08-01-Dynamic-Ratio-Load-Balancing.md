@@ -5,8 +5,6 @@ title: Dynamic Ratio Load Balancing
 categories: f5-ltm
 ---
 
-# Dynamic Ratio Load Balancing
-
 We can adjust load balancing ratio according to servers consuming resource such as CPU, Memory and Disk.
 
 In this lab i will be apply this scenario :

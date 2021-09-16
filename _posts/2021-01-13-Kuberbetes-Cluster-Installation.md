@@ -1,11 +1,9 @@
 ---
 layout: post
-tags: Installing Kubernetes Cluster
-title: Installing Kubernetes Cluster
+tags: Installing Kubernetes Cluster Lab Setup
+title: Installing Kubernetes Cluster Lab Setup
 categories: kubernetes
 ---
-
-## Lab Setup 
 
 > Ahmet Numan Aytemiz, 13 Ocak 2021
 
