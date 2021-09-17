@@ -29,12 +29,11 @@ Here is the lab topology ;
 
 ## On the F5
 
-1. Create SNMP DCA monitor, to accomplish that **Local Traffic >> Monitor >> Create**
-
-- Name : snmp_dca_monitor
-- Community : TEST
-- Version : v2c
-- Agent Type : WIN2000
+- Create SNMP DCA monitor, to accomplish that **Local Traffic >> Monitor >> Create**
+  - Name : snmp_dca_monitor
+  - Community : TEST
+  - Version : v2c
+  - Agent Type : WIN2000
 
 other setting will be remain default or whatever you want.
 
@@ -42,7 +41,7 @@ other setting will be remain default or whatever you want.
 
 ---
 
-2. Assign nodes and add monitor them with snmp_dca_agent **Local Traffic > Nodes > Create**
+- Assign nodes and add monitor them with snmp_dca_agent **Local Traffic > Nodes > Create**
 
 ![Image](/img/node1.png)
 
@@ -50,25 +49,24 @@ all other two nodes added same way
 
 ---
 
-3. Crete Pool with Load Balancing Method Dynamic Ratio (nodes) and assign pool members and monitor pool member with http
+- Crete Pool with Load Balancing Method Dynamic Ratio (nodes) and assign pool members and monitor pool member with http
 
 ![Image](/img/pool1.PNG)
 ![Image](/img/pool.PNG)
 
 ---
 
-4. Cretae VS Server 
-
-- IP Address : 192.168.138.200
-- Service Port : 80
-- Default Pool : test-web-pool
+- Cretae VS Server 
+  - IP Address : 192.168.138.200
+  - Service Port : 80
+  - Default Pool : test-web-pool
 
 ![Image](/img/vs.PNG)
 ![Image](/img/vs2.PNG)
 
 ---
 
-5. Verify dynamic ratio rates from F5 cli
+- Verify dynamic ratio rates from F5 cli
 
 `tmsh list ltm nodes dynamic-ratio`
 
@@ -88,7 +86,7 @@ At this moment server 3 resources :
 
 ---
 
-6. Enable and view snmp dca agent logs on the F5
+- Enable and view snmp dca agent logs on the F5
 
 **from cli**
 
@@ -96,7 +94,7 @@ At this moment server 3 resources :
 
  `cat /shared/tmp/snmpdca.log`
 
-7. Perform Syn flood from layer 2 network with hping3 and check the dynamic ratio rates from cli.
+- Perform Syn flood from layer 2 network with hping3 and check the dynamic ratio rates from cli.
 
 `hping3 -c 15000 -d 120 -S -w 64 -p 80 --flood --rand-source 20.20.20.21`
 
