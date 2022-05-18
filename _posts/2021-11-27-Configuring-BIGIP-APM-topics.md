@@ -10,6 +10,10 @@ categories: f5-apm
 ---
 
 #### 1. Lab Topology
+
+![Image](/img/apm-lab.png)
+
+
 #### 2. Setting Up the BIG-IP System
   - **Lab 2.1 Provisionig the BIG-IP System and Confirm Network Configuration**
 #### 3. Configuring Web Application Access
