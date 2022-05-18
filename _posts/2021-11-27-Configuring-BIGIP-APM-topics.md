@@ -15,7 +15,9 @@ categories: f5-apm
 
 
 #### 2. Setting Up the BIG-IP System
-  - **Lab 2.1 Provisionig the BIG-IP System and Confirm Network Configuration**
+
+- [Lab 2.1 Provisionig the BIG-IP System and Confirm Network Configuration](https://ahmetnuman.github.io/f5-bigip/f5-apm/2022/05/18/provisioning-bigip.html)
+
 #### 3. Configuring Web Application Access
   - **Lab 3.1 - Web Applcaiton Access 1**   
   - **Lab 3.2 - HTTP Load Balancing**   

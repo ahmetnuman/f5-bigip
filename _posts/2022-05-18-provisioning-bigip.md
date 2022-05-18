@@ -61,7 +61,7 @@ Configure the self and floating ip adresses according to topology like below ;
 | internal-self        | 172.16.1.31     | 255.255.255.0    |  internal    | traffic-group-local-only | default       | 
 | internal-floating    | 172.16.1.33     | 255.255.255.0    |  internal    | traffic-group-1          | default       | 
 
-To configure the self and floating ips navigate **Network >> Self IPs ** >> **Create**
+To configure the self and floating ips navigate **Network >> Self IPs >> Create**
 
 - Configure external-self ip address
 
