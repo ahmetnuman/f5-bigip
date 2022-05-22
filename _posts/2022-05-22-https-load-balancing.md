@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: http load baalncing
-title: http load balancing
+tags: https load baalncing
+title: https load balancing
 categories: f5-apm
 ---
 
