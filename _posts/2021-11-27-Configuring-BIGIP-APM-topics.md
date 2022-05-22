@@ -19,6 +19,23 @@ categories: f5-apm
 - [Lab 2.1 Provisionig the BIG-IP System and Confirm Network Configuration](https://ahmetnuman.github.io/f5-bigip/f5-apm/2022/05/18/provisioning-bigip.html)
 
 #### 3. Configuring Web Application Access
+
+**Concepts and Technologies**
+
+- Virtual Servers
+- Pools, Pool Members and Nodes
+- Full Proxy Architecture
+- Load Balancing and Health Monitoring
+- Source Address Translation
+- Client and Server SSL Profiles (SSL Termination)
+- HTTP Profiles
+- Access Profiles, Access Polices and Visual Policy Editor
+- Active Directory Authentication adn BIG-IP APM AAA Servers 
+
+**Task**
+
+`A new application has been created in three linux servers that are to be load balanced. We need to put it on the Internet as soon as possibe. Because the content is restricted to employees and partners, use Active Directory to authenticate.`
+
   - **Lab 3.1 - Web Applcaiton Access 1**   
   - **Lab 3.2 - HTTP Load Balancing**   
   - **Lab 3.3 - HTTPS Load Balancing**   
