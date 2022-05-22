@@ -48,7 +48,7 @@ categories: f5-apm
 
 ![Image](/img/wiki-vs2.png)
 
-- Using windows client pc , using any browserser connect the http://10.10.1.10 virtual server and refresh the page 10 times.
+- Using windows client pc , using any browserser connect the http://10.10.1.101 virtual server and refresh the page 10 times.
 
 - Navigate to **Local Traffic >> Pools >> Statistics** to monitor connections on each pool member.
   - How many connections to 172.16.20.1:80
