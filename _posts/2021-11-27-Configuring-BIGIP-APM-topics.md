@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: Configuring BIG-IP APM Access Policy Manager Topics
-title: Configuring BIG-IP APM Access Policy Manager Topics 
+tags: Configuring BIG-IP APM Access Policy Manager 
+title: Configuring BIG-IP APM Access Policy Manager 
 categories: f5-apm
 ---
 
