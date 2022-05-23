@@ -69,10 +69,26 @@ And click **Apply Access Policy**
 
 - Using any browser connect the https://10.10.1.101 virtual server and enter invalid credentials three or more times.
 - When using invalid credentials, what happens the first time ?
+
+![Image](/img/wronguser.png)
+
+![Image](/img/wronguser2.png)
+
 - What happens the third time ?
+
+![Image](/img/wronguser3.png)
+
 - Connect to the https://10.10.1.101 virtual server log in using domain user credentials and refresh the page 10 times.
 - What is the virtual server status (**Local Traffic >> Virtual Server**)
 - Navigate to **Local Traffic >> Pools >> Statistics** to monitor connections on each pool member in the **wiki.pool**
-  - How many connections to 172.16.20.1:443 ? 
-  - How many connections to 172.16.20.2:443 ? 
-  - How many connections to 172.16.20.3:443 ? 
+  - How many connections to 172.16.20.1:443 ? **0**
+  - How many connections to 172.16.20.2:443 ? **10**
+  - How many connections to 172.16.20.3:443 ? **0**
+
+![Image](/img/connectionsuser.png)
+
+- Open new tab with same browser and analyze the connection numbers on the pool members again.
+
+![Image](/img/conenctionsagain.png)
+
+
