@@ -81,7 +81,7 @@ Navigate to **Local Traffic >> Profiles >> SSL >> Client**
 | Virtual Server Name        | wiki.vs                  | 
 | -----------                | -----------              | 
 | Type                       |  Standart                |   
-| Destination Address / Mask |  GET 10.10.1.101         | 
+| Destination Address / Mask |  10.10.1.101             | 
 | Server Port                |  443                     | 
 | Protocol                   |  tcp                     |
 | http profile               |  http                    |
