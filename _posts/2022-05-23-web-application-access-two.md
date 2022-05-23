@@ -72,7 +72,7 @@ And click **Apply Access Policy**
 
 ![Image](/img/wronguser.png)
 
-![Image](/img/wronguser2.png)
+![Image](/img/wronuser2.png)
 
 - What happens the third time ?
 
