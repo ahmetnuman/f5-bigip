@@ -35,11 +35,12 @@ categories: f5-apm
 **Task**
 
 `A new application has been created in three linux servers that are to be load balanced. We need to put it on the Internet as soon as possibe. Because the content is restricted to employees and partners, use Active Directory to authenticate.`
+
   - [ Lab 3.1 Web Applcaiton Access 1](https://ahmetnuman.github.io/f5-bigip/f5-apm/2022/05/19/web-application-access-1.html)  
   - [ Lab 3.2 HTTP Load Balancing](https://ahmetnuman.github.io/f5-bigip/f5-apm/2022/05/22/http-load-balancing.html)  
   - [ Lab 3.3 HTTPS Load Balancing](https://ahmetnuman.github.io/f5-bigip/f5-apm/2022/05/22/https-load-balancing.html)
   - [ Lab 3.4 Web Applcaition Access 2](https://ahmetnuman.github.io/f5-bigip/f5-apm/2022/05/23/web-application-access-two.html)
-  - **Lab 3.5 - HTTP Web App Access**   
+  - [ Lab 3.5 - HTTP Web App Access](https://ahmetnuman.github.io/f5-bigip/f5-apm/2022/05/24/http-web-app-access.html)
 
 #### 4. Exploring The Access Policy
 
@@ -60,7 +61,7 @@ categories: f5-apm
   - **Lab 4.1 - Access Policy**  
   - **Lab 4.2 - Policy Import , Export , Copy and Delete**  
   - **Lab 4.3 - Allow Only Supported Platforms**
-  
+
 #### 5. Managing BIG-IP APM
   - **Lab 5.2 - Managing APM**    
   - **Lab 5.2 - Find and Delete Active Sessions**    
