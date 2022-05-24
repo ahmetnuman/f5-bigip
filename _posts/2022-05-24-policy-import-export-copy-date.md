@@ -49,9 +49,4 @@ Navigate to **Local Traffic >> Virtual Server** and click **wiki.vs**
 | Did you have to Apply Access Policy         |  Yes  |  
 | Does it behaves the same way ? |  Yes   | 
 
-
-
-
-
-
-
+---
