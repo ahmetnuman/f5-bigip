@@ -62,7 +62,8 @@ categories: f5-apm
 
 `We need to prevent any unsupported devices from connecting and we need to do that ASAP!!`
 
-  - **Lab 4.1 - Access Policy**  
+  - [ Lab 4.1 - Access Policy](https://ahmetnuman.github.io/f5-bigip/f5-apm/2022/05/24/access-policy.html)
+  - [ Lab 4.2 - Policy Import , Export , Copy and Delete](https://ahmetnuman.github.io/f5-bigip/f5-apm/2022/05/24/policy-import-export-copy-date.html)
   - **Lab 4.2 - Policy Import , Export , Copy and Delete**  
   - **Lab 4.3 - Allow Only Supported Platforms**
 
