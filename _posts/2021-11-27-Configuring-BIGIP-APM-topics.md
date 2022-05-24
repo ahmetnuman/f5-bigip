@@ -40,10 +40,27 @@ categories: f5-apm
   - [ Lab 3.3 HTTPS Load Balancing](https://ahmetnuman.github.io/f5-bigip/f5-apm/2022/05/22/https-load-balancing.html)
   - [ Lab 3.4 Web Applcaition Access 2](https://ahmetnuman.github.io/f5-bigip/f5-apm/2022/05/23/web-application-access-two.html)
   - **Lab 3.5 - HTTP Web App Access**   
+
 #### 4. Exploring The Access Policy
+
+**Concepts and Technologies**
+
+- Import, Export and Copy Access Profiles
+- Add, Delete and Move Agents in the Visual Policy
+- Add, Delete, Edit and Re-order Branches within the Agent
+- New Redirect Endings and Customized Deny Endings
+- Client OS Checking Agent
+
+**Task**
+
+`The Helpdesk is complaining because Linux users are being allowed to log on and connect to the Wiki, but it has only been tested with Windows (7 and later), Mac, IOS and Android.`
+
+`We need to prevent any unsupported devices from connecting and we need to do that ASAP!!`
+
   - **Lab 4.1 - Access Policy**  
   - **Lab 4.2 - Policy Import , Export , Copy and Delete**  
   - **Lab 4.3 - Allow Only Supported Platforms**
+  
 #### 5. Managing BIG-IP APM
   - **Lab 5.2 - Managing APM**    
   - **Lab 5.2 - Find and Delete Active Sessions**    
