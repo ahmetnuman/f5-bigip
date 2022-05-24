@@ -31,7 +31,7 @@ categories: f5-apm
 | Virtual Server Name        | wiki-80.vs         | 
 | -----------                | -----------        | 
 | Type                       |  Standart          |  
-| Destination Address / Mask |  GET 10.10.1.101   | 
+| Destination Address / Mask |  10.10.1.101   | 
 | Server Port                |  80                | 
 | Protocol                   |  tcp               |
 | http profile               |  http              |
