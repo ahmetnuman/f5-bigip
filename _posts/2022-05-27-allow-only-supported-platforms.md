@@ -35,7 +35,7 @@ categories: f5-apm
 
 - **Connect https://10.10.1.101 vs address from linux client**
 
-![Image](/img/windows-client.png.png)
+![Image](/img/windows-client.png)
 
 - Change the user agent string to Android and connect again the https://10.10.1.101 from windows client.
 

@@ -69,6 +69,19 @@ categories: f5-apm
 ---  
 
 #### 5. Managing BIG-IP APM
+
+**Concepts and Technologies**
+
+  - User Sessions
+  - Session Cookies
+  - Session Variables
+  - Session Count Limits
+  - Logging
+  - Message Box
+
+**Task : You had a maintenance windows scheduled last nihgt, but the CEO was in the middle of the demo'ing the Wiki to our partners in Japan at that time. Dont ever let that happen again, or we'll both be looking for new jobs!!**  
+
+
   - **Lab 5.2 - Managing APM**    
   - **Lab 5.2 - Find and Delete Active Sessions**    
   - **Lab 5.3 - Use a Logging Agent**    
