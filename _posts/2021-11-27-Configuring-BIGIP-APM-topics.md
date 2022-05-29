@@ -64,7 +64,7 @@ categories: f5-apm
 
   - [ Lab 4.1 - Access Policy](https://ahmetnuman.github.io/f5-bigip/f5-apm/2022/05/24/access-policy.html)
   - [ Lab 4.2 - Policy Import , Export , Copy and Delete](https://ahmetnuman.github.io/f5-bigip/f5-apm/2022/05/24/policy-import-export-copy-date.html)
-  - **Lab 4.3 - Allow Only Supported Platforms**
+  - [ Lab 4.3 - Allow Only Supported Platforms](https://ahmetnuman.github.io/f5-bigip/f5-apm/2022/05/27/allow-only-supported-platforms.html)
 
 ---  
 
