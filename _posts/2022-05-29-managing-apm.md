@@ -5,7 +5,7 @@ title: Managing APM
 categories: f5-apm
 ---
 
->> Ahmet Numan Aytemiz , 27.05.2022 - Ankara, Turkey
+>> Ahmet Numan Aytemiz , 29.05.2022 - Ankara, Turkey
 
 ---
 
@@ -22,4 +22,5 @@ categories: f5-apm
 ![Image](/img/lab5-download.png)
 
 ---
+
 
