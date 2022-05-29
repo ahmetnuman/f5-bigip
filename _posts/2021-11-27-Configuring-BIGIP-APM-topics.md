@@ -82,11 +82,13 @@ categories: f5-apm
 `Task : You had a maintenance windows scheduled last nihgt, but the CEO was in the middle of the demo'ing the Wiki to our partners in Japan at that time. Dont ever let that happen again, or we'll both be looking for new jobs!!`
 
 
-  - **Lab 5.2 - Managing APM**    
+  - **Chapter 5: Managing BIG-IP APM Notes**
+  - **Lab 5.1 - Managing APM**    
   - **Lab 5.2 - Find and Delete Active Sessions**    
   - **Lab 5.3 - Use a Logging Agent**    
   - **Lab 5.4 - Instrument the Policy**    
   - **Lab 5.5 - Inspect Session Cookies**
+
 #### 6. Using Authenticaiton
   - **Lab 6.1 - Testing Active Directory**      
   - **Lab 6.2 - Alternate Authenticaiton**      
