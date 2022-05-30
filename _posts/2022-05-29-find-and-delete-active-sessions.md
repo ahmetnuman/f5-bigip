@@ -38,3 +38,25 @@ categories: f5-apm
 ![Image](/img/referencenumber.png)
 
 
+## Use Command Line 
+
+- Using two different browser connect the https://10.10.1.101 wiki.vs again, and use different logon name.
+
+![Image](/img/login-two.png)
+
+- Connect to big-ip with ssh and enter the following command `sessiondump --allkeys | grep -a last.username`
+
+![Image](/img/sessiondumpallkeys.png)
+
+- kill one or more of the active sessions using `sessiondump --delete <session-id>` or `sessiondum --delete all`
+
+![Image](/img/deletesession.png)
+
+
+
+- Open a session to wiki.vs but do not logon , look for the session , we wont see a username (because we didnt enter a username)
+
+`sessiondump --list`
+
+![Image](/img/sessiondumplist.png)
+
