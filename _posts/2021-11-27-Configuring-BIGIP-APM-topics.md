@@ -84,7 +84,7 @@ categories: f5-apm
   - [ Chapter 5: Managing BIG-IP APM Notes](https://ahmetnuman.github.io/f5-bigip/f5-apm/2022/05/29/managing-bigip-apm.html)
   - [ Lab 5.1 - Managing APM](https://ahmetnuman.github.io/f5-bigip/f5-apm/2022/05/29/managing-apm.html)  
   - [ Lab 5.2 - Find and Delete Active Sessions](https://ahmetnuman.github.io/f5-bigip/f5-apm/2022/05/29/find-and-delete-active-sessions.html)    
-  - **Lab 5.3 - Use a Logging Agent**    
+  - [ Lab 5.3 - Use a Logging Agent](https://ahmetnuman.github.io/f5-bigip/f5-apm/2022/05/30/use-a-logging-agent.html)    
   - **Lab 5.4 - Instrument the Policy**    
   - **Lab 5.5 - Inspect Session Cookies**
 
