@@ -9,7 +9,7 @@ categories: f5-apm
 
 ---
 
-## Lab 5.1 Use a Logging Agent
+## Lab 5.3 Use a Logging Agent
 
 **Session variables are purged from memory as soon as the session is terminated, but sometimes it would be useful to save some of those variables for inspection hours or days after the session was finished.**
 
