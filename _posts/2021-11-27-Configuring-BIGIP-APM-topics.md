@@ -81,10 +81,9 @@ categories: f5-apm
 
 `Task : You had a maintenance windows scheduled last nihgt, but the CEO was in the middle of the demo'ing the Wiki to our partners in Japan at that time. Dont ever let that happen again, or we'll both be looking for new jobs!!`
 
-
-  - **Chapter 5: Managing BIG-IP APM Notes**
-  - **Lab 5.1 - Managing APM**    
-  - **Lab 5.2 - Find and Delete Active Sessions**    
+  - [ Chapter 5: Managing BIG-IP APM Notes](https://ahmetnuman.github.io/f5-bigip/f5-apm/2022/05/29/managing-bigip-apm.html)
+  - [ Lab 5.1 - Managing APM](https://ahmetnuman.github.io/f5-bigip/f5-apm/2022/05/29/managing-apm.html)  
+  - [ Lab 5.2 - Find and Delete Active Sessions](https://ahmetnuman.github.io/f5-bigip/f5-apm/2022/05/29/find-and-delete-active-sessions.html)    
   - **Lab 5.3 - Use a Logging Agent**    
   - **Lab 5.4 - Instrument the Policy**    
   - **Lab 5.5 - Inspect Session Cookies**
