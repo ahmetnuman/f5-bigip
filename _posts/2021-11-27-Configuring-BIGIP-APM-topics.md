@@ -99,9 +99,8 @@ categories: f5-apm
 
 `Task : The AD team has been unhapy about keeping partner accounts on the corporate Active Directory. They will be moving those accounts to a RADIUS server. We need to incorporate RADIUS authentication without making any changes to the way either employees or partners logon and we need to do that ASAP!!`
 
-
-  - **Lab 6.1 - Testing Active Directory**      
-  - **Lab 6.2 - Alternate Authenticaiton**      
+  - [ Lab 6.1 - Testing Active Directory](https://ahmetnuman.github.io/f5-bigip/f5-apm/2022/05/31/testing-active-directory.html)
+  - [ Lab 6.2 - Alternate Authenticaiton](https://ahmetnuman.github.io/f5-bigip/f5-apm/2022/05/31/alternate-authentication.html)     
   - **Lab 6.3 - One Time Password**      
   - **Lab 6.4 - Local User Database**
 #### 7. Understanding Assignment Agents*
