@@ -48,4 +48,3 @@ Use this command to confirm valid credentials. It also confirms that Active Dire
 
 ![Image](/img/datentp.png)
 
-
