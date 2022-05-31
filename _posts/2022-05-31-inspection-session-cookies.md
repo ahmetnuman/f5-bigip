@@ -9,7 +9,7 @@ categories: f5-apm
 
 ---
 
-## Lab 5.3 Inspect Session Cookies
+## Lab 5.5 Inspect Session Cookies
 
 **Session variables contain the data needed to manage a specific big-ip session and cookies contain the data needed to map specific browser session to big-ip sessions**
 
